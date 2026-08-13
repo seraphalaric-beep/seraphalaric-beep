@@ -1,20 +1,40 @@
 # Bryan Mc Namara
 
-Irish public-sector professional building practical digital tools, product prototypes and small software experiments.
+Public-sector strategist. Product builder. Systems thinker.
 
-I’m interested in:
+I build software with a simple bias: make complicated things feel obvious.
 
-- local-first apps and privacy-conscious design;
-- clear information architecture and accessible interfaces;
-- useful tools that make complex information easier to understand;
-- thoughtful product design across web, iOS and Android.
+My projects tend to sit where design, data and real life collide, from campaign maps and D&D character management to private physique tracking, weight trends and small tools that do one job properly.
 
-## Selected work
+> Code is the medium. Clarity is the point.
 
-- [JSON Minifier](https://github.com/seraphalaric-beep/jsonminifier), a small local-first Python desktop utility for validating and minifying JSON.
+## Things I've built
 
-## Current toolkit
+### [Sheet of Holding](https://character-sheet-web.vercel.app)
 
-Python · TypeScript · Swift · Kotlin · Next.js
+A full-featured D&D 5e character management platform for players and Dungeon Masters. Characters, inventory, spells, features, companions, notes and campaign maps in one place.
 
-Most of my larger projects are private while they are being developed. Public repositories are selected, documented and kept deliberately small.
+### [Check-In: Physique](https://check-in.fit)
+
+A private, local-first physique progress app for repeatable photo check-ins, same-pose comparisons, measurements, timelines and reminders. Available on iOS and Android. No accounts, adverts or subscriptions.
+
+### Clear Scales
+
+A private, local-first iOS weight-tracking app built around meaningful trends rather than noise: goal milestones, projections, HealthKit integration, backups and widgets.
+
+### [JSON Minifier](https://github.com/seraphalaric-beep/jsonminifier)
+
+A small offline Python desktop utility for validating and minifying JSON. One job. No upload. No fuss.
+
+## How I like to build
+
+- local-first where privacy matters;
+- interfaces that explain themselves;
+- useful systems over impressive demos;
+- enough structure to scale without losing the human bit.
+
+## Stack
+
+Swift · Kotlin · TypeScript · Python · Next.js
+
+Most of my larger projects are private while they are being developed. The public work is the part I’m happy to put in the shop window.
