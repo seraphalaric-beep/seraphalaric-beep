@@ -10,21 +10,29 @@ My projects tend to sit where design, data and real life collide, from campaign 
 
 ## Things I've built
 
-### [Sheet of Holding](https://character-sheet-web.vercel.app)
+### Sheet of Holding
 
 A full-featured D&D 5e character management platform for players and Dungeon Masters. Characters, inventory, spells, features, companions, notes and campaign maps in one place.
 
-### [Check-In: Physique](https://check-in.fit)
+[Web app](https://character-sheet-web.vercel.app)
+
+### Check-In: Physique
 
 A private, local-first physique progress app for repeatable photo check-ins, same-pose comparisons, measurements, timelines and reminders. Available on iOS and Android. No accounts, adverts or subscriptions.
+
+[Website](https://check-in.fit) · [App Store](https://apps.apple.com/us/app/check-in-physique/id6761781961) · [Google Play](https://play.google.com/store/apps/details?id=com.checkinphysique.app)
 
 ### Clear Scales
 
 A private, local-first iOS weight-tracking app built around meaningful trends rather than noise: goal milestones, projections, HealthKit integration, backups and widgets.
 
-### [JSON Minifier](https://github.com/seraphalaric-beep/jsonminifier)
+[App Store](https://apps.apple.com/us/app/clear-scales/id6790448672)
+
+### JSON Minifier
 
 A small offline Python desktop utility for validating and minifying JSON. One job. No upload. No fuss.
+
+[Repository](https://github.com/seraphalaric-beep/jsonminifier)
 
 ## How I like to build
 
