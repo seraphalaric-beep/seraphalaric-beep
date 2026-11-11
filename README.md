@@ -1,48 +1,35 @@
-# Bryan Mc Namara
+# Hi, I'm Bryan
 
-Public-sector strategist. Product builder. Systems thinker.
+I work in the public sector in Ireland. Outside work, I make apps for iPhone, Android and the web. Most start with something I wanted to use myself; a few have grown well beyond the original idea.
 
-I build software with a simple bias: make complicated things feel obvious.
+## Apps and projects
 
-My projects tend to sit where design, data and real life collide, from campaign maps and D&D character management to private physique tracking, weight trends and small tools that do one job properly.
+### Check-In
 
-> Code is the medium. Clarity is the point.
+Physique, Scales and Macros are my fitness apps for photo progress, weight trends and food tracking. I'm building the suite for iPhone and Android, with privacy and straightforward everyday use in mind.
 
-## Things I've built
+[Check-In website](https://check-in.fit)
 
-### Sheet of Holding
+### Rouse
 
-A full-featured D&D 5e character management platform for players and Dungeon Masters. Characters, inventory, spells, features, companions, notes and campaign maps in one place.
+An iPhone alarm app that lets you use your own audio. Import a sound, trim the clip, organise sounds into playlists and use them for alarms. I'm still working through the device-specific details.
 
-[Web app](https://character-sheet-web.vercel.app)
+### Rift Counter
 
-### Check-In: Physique
+A free, offline scorekeeper for two people sharing one iPhone during a Riftbound match. It tracks Conquer and Hold points and stays out of the rest of the game.
 
-A private, local-first physique progress app for repeatable photo check-ins, same-pose comparisons, measurements, timelines and reminders. Available on iOS and Android. No accounts, adverts or subscriptions.
+### LessFile
 
-[Website](https://check-in.fit) · [App Store](https://apps.apple.com/us/app/check-in-physique/id6761781961) · [Google Play](https://play.google.com/store/apps/details?id=com.checkinphysique.app)
+An iPhone and iPad app for compressing photos, videos and files on the device. The original files stay untouched.
 
-### Clear Scales
+### Tonalith
 
-A private, local-first iOS weight-tracking app built around meaningful trends rather than noise: goal milestones, projections, HealthKit integration, backups and widgets.
+I'm working on a local-first photo editor, starting with colour grading for fitness photos: better light and mood, while leaving the person in the photo as they are.
 
-[App Store](https://apps.apple.com/us/app/clear-scales/id6790448672)
+### D&D tools
 
-### JSON Minifier
+I made [Sheet of Holding](https://character-sheet-web.vercel.app) for keeping track of D&D characters online. I'm now working on Tabletop Companion, a bigger workspace for characters, campaigns and playing around the table.
 
-A small offline Python desktop utility for validating and minifying JSON. One job. No upload. No fuss.
+### A small utility
 
-[Repository](https://github.com/seraphalaric-beep/jsonminifier)
-
-## How I like to build
-
-- local-first where privacy matters;
-- interfaces that explain themselves;
-- useful systems over impressive demos;
-- enough structure to scale without losing the human bit.
-
-## Stack
-
-Swift · Kotlin · TypeScript · Python · Next.js
-
-Most of my larger projects are private while they are being developed. The public work is the part I’m happy to put in the shop window.
+[JSON Minifier](https://github.com/seraphalaric-beep/json-minifier) is a small offline tool for checking and minifying JSON.
