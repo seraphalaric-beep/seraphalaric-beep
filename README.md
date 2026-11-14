@@ -1,6 +1,6 @@
 # Hi, I'm Bryan
 
-I work in the public sector in Ireland. Outside work, I make apps for iPhone, Android and the web. Most start with something I wanted to use myself; a few have grown well beyond the original idea.
+I make apps for iPhone, Android and the web. Most start with something I wanted to use myself; a few have grown well beyond the original idea.
 
 ## Apps and projects
 
