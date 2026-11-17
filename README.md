@@ -1,6 +1,6 @@
 # Hi, I'm Bryan
 
-I'm a curious builder who likes turning everyday problems into useful, thoughtful software. Most of my projects start with something I wanted to use myself.
+I'm Bryan. I’m curious about how things work and enjoy turning everyday frustrations into useful software. Most of these projects started with something I wanted to use myself.
 
 ## iOS apps
 
