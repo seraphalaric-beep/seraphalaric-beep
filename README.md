@@ -1,35 +1,37 @@
 # Hi, I'm Bryan
 
-I make apps for iPhone, Android and the web. Most start with something I wanted to use myself; a few have grown well beyond the original idea.
+I'm a curious builder who likes turning everyday problems into useful, thoughtful software. Most of my projects start with something I wanted to use myself.
 
-## Apps and projects
+## iOS apps
 
-### Check-In
+- [Check-In: Physique](https://apps.apple.com/ie/app/check-in-physique/id6761781961) — guided progress photos and pose-by-pose comparisons.
+- [Check-In: Scales](https://apps.apple.com/ie/app/check-in-scales/id6790448672) — weight tracking, trends, and goals.
+- [Check-In: Macros](https://apps.apple.com/ie/app/check-in-macros/id6806688584) — calorie and macro tracking.
+- [Rouse](https://apps.apple.com/ie/app/rouse-custom-sound-alarm/id6814202740) — an alarm app that lets you use your own audio.
+- [Rift Counter](https://apps.apple.com/ie/app/rift-counter/id6812848378) — an offline scorekeeper for two people playing Riftbound.
+- [LessFile](https://apps.apple.com/ie/app/lessfile/id6829953037) — compress photos, videos, and files on iPhone and iPad.
+- **Tonalith** — a photo editor in development.
 
-Physique, Scales and Macros are my fitness apps for photo progress, weight trends and food tracking. I'm building the suite for iPhone and Android, with privacy and straightforward everyday use in mind.
+See the [Check-In website](https://check-in.fit) for the fitness apps.
 
-[Check-In website](https://check-in.fit)
+## WordPress plugins
 
-### Rouse
+- [Activity Log for Admins](https://github.com/seraphalaric-beep/activity-log-for-admins) — review and export a searchable history of changes on a WordPress site. The public preview is gathering feedback.
+- [Housing Manual Page Order](https://github.com/seraphalaric-beep/housing_manual_page_order) — set the order of published pages in the Housing Manual navigation.
+- **Site Redirect Manager** — manage redirects, check missing pages, and review imports. The repository is private, so there is no public link yet.
+- **Email Delivery Diagnostics** — run a simple WordPress mail test. This is an early private prototype and is not ready for public use.
 
-An iPhone alarm app that lets you use your own audio. Import a sound, trim the clip, organise sounds into playlists and use them for alarms. I'm still working through the device-specific details.
+## Android apps
 
-### Rift Counter
+The Android editions of Check-In: Physique, Scales, and Macros are in development. Their repositories are private for now; public links will follow when builds are ready.
 
-A free, offline scorekeeper for two people sharing one iPhone during a Riftbound match. It tracks Conquer and Hold points and stays out of the rest of the game.
+## Web apps
 
-### LessFile
+- [Sheet of Holding](https://character-sheet-web.vercel.app) — an online character sheet for D&D 5e.
+- **Tabletop Companion** — a broader character, campaign, and tabletop workspace in development.
+- **First-Time Buyer Supports Calculator** — an interactive guide to how Irish home-buying supports can work together. The repository is private.
+- **Certificate Generator** — an internal tool for creating batches of personalised training certificates from a spreadsheet and PDF template.
 
-An iPhone and iPad app for compressing photos, videos and files on the device. The original files stay untouched.
+## Other tools
 
-### Tonalith
-
-I'm working on a local-first photo editor, starting with colour grading for fitness photos: better light and mood, while leaving the person in the photo as they are.
-
-### D&D tools
-
-I made [Sheet of Holding](https://character-sheet-web.vercel.app) for keeping track of D&D characters online. I'm now working on Tabletop Companion, a bigger workspace for characters, campaigns and playing around the table.
-
-### A small utility
-
-[JSON Minifier](https://github.com/seraphalaric-beep/json-minifier) is a small offline tool for checking and minifying JSON.
+- [JSON Minifier](https://github.com/seraphalaric-beep/json-minifier) — a small desktop tool for validating and minifying JSON.
