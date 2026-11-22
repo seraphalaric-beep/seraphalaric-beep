@@ -17,7 +17,6 @@ See the [Check-In website](https://check-in.fit) for the fitness apps.
 ## WordPress plugins
 
 - [Activity Log for Admins](https://github.com/seraphalaric-beep/activity-log-for-admins) — review and export a searchable history of changes on a WordPress site. The public preview is gathering feedback.
-- [Housing Manual Page Order](https://github.com/seraphalaric-beep/housing_manual_page_order) — set the order of published pages in the Housing Manual navigation.
 - **Site Redirect Manager** — manage redirects, check missing pages, and review imports. The repository is private, so there is no public link yet.
 - **Email Delivery Diagnostics** — run a simple WordPress mail test. This is an early private prototype and is not ready for public use.
 
