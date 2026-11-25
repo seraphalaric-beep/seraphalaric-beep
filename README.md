@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/runeforge/runeforge-banner.png" alt="Bryan Mc Namara — independent apps and WordPress plugins. A pixel-art woodland workshop with a lavender anvil and a glowing peach ember." width="100%">
+</p>
+
 # Hi, I'm Bryan
 
-I'm Bryan. I’m curious about how things work and enjoy turning everyday frustrations into useful software. Most of these projects started with something I wanted to use myself.
+I’m curious about how things work and enjoy turning everyday frustrations into useful software. Most of these projects started with something I wanted to use myself.
 
 ## iOS apps
 
@@ -16,9 +20,9 @@ See the [Check-In website](https://check-in.fit) for the fitness apps.
 
 ## WordPress plugins
 
-- [Activity Log for Admins](https://github.com/seraphalaric-beep/activity-log-for-admins) — review and export a searchable history of changes on a WordPress site. The public preview is gathering feedback.
-- **Site Redirect Manager** — manage redirects, check missing pages, and review imports. The repository is private, so there is no public link yet.
-- **Email Delivery Diagnostics** — run a simple WordPress mail test. This is an early private prototype and is not ready for public use.
+- [Lanternmote Change Log](https://github.com/seraphalaric-beep/change-vigil-site-journal) — review and export a searchable history of changes on a WordPress site. The public preview is gathering feedback.
+- **Waynotch Redirect Manager** — manage redirects, check missing pages, and review imports. The repository is private, so there is no public link yet.
+- **Sealwick Mail Check** — run a simple WordPress mail test. This is an early private prototype and is not ready for public use.
 
 ## Android apps
 
