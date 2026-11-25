@@ -32,8 +32,6 @@ The Android editions of Check-In: Physique, Scales, and Macros are in developmen
 
 - [Sheet of Holding](https://character-sheet-web.vercel.app) — an online character sheet for D&D 5e.
 - **Tabletop Companion** — a broader character, campaign, and tabletop workspace in development.
-- **First-Time Buyer Supports Calculator** — an interactive guide to how Irish home-buying supports can work together. The repository is private.
-- **Certificate Generator** — an internal tool for creating batches of personalised training certificates from a spreadsheet and PDF template.
 
 ## Other tools
 
