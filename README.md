@@ -14,7 +14,6 @@ I’m curious about how things work and enjoy turning everyday frustrations into
 - [Rouse](https://apps.apple.com/ie/app/rouse-custom-sound-alarm/id6814202740) — an alarm app that lets you use your own audio.
 - [Rift Counter](https://apps.apple.com/ie/app/rift-counter/id6812848378) — an offline scorekeeper for two people playing Riftbound.
 - [LessFile](https://apps.apple.com/ie/app/lessfile/id6829953037) — compress photos, videos, and files on iPhone and iPad.
-- **Tonalith** — a photo editor in development.
 
 See the [Check-In website](https://check-in.fit) for the fitness apps.
 
